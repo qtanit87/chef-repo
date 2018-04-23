@@ -1,0 +1,7 @@
+default.life_online_batch_deployment.Home_Deploy_Folder		= ''
+default.life_online_batch_deployment.Web_Admin_warName  	= ''
+default.life_online_batch_deployment.App_Deployments_Location 	= ''
+default.life_online_batch_deployment.Batch_Job_Location      	= ''
+default.life_online_batch_deployment.S3                         = ''
+default.life_online_batch_deployment.online_conf                = ''
+default.life_online_batch_deployment.batch_conf                 = ''

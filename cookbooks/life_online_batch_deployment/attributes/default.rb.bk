@@ -1,0 +1,8 @@
+default[:Home_Deploy_Folder]						= '/u01/integral/test'
+default[:Web_Admin_warName]  						= 'LifeAsiaWeb'
+default[:App_Home]      							= '/u01/integral/test/online'
+default[:App_Deployments_Location] 				= '/u01/integral/test/online/deployment'
+default[:Batch_Job_Location]      					= '/u01/integral/test/batch'
+default[:S3]                                           = 'TAN/MISR/LIFE/FT/LATEST'
+default[:online_conf]                                  = '/u01/integral/deploy_config/online'
+default[:batch_conf]                                   = '/u01/integral/deploy_config/batch'

@@ -1,0 +1,5 @@
+default.ws_deployment.Home_Deploy_Folder	= ''
+default.ws_deployment.ws_name  			= ''
+default.ws_deployment.App_Deployments_Location 	= ''
+default.ws_deployment.S3                        = ''
+default.ws_deployment.conf_location            	= ''
